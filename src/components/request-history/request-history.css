@@ -1,0 +1,17 @@
+.request-history {
+    width: 100%;
+}
+.request-history p {
+    margin: 10px 0 0 5px;
+}
+.request-history__list {
+    list-style-type: none;
+    padding-left: 5px;
+    display: flex;
+}
+.request-history__list__item {
+    margin-right: 5px;
+}
+.request-history__list__item .btn {
+    padding: 0;
+}

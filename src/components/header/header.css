@@ -1,0 +1,15 @@
+.header {
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+.header__container {
+    display: flex;
+    align-items: center;
+}
+.header__logo {
+    width: 80px;
+}
+.header__forecast {
+    margin: 0;
+}
